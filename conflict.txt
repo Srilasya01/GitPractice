@@ -1,2 +1,2 @@
 Welcome to Git.
-This is the original version.
+This is modified by feature A.
